@@ -1,4 +1,4 @@
-# NAIVE-BEES_COMPUTER-VISION-MODELLING
+# NAIVE-BEES_A-COMPUTER-VISION-MODEL
 Deep learning with bee images.
 
 This is a part of DataCamp's structured projects and it's in 3 parts. 
