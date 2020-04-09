@@ -1,5 +1,5 @@
-# Naive-Bees-Image-Loading-Processing
-Loading images in python and pre-processing steps for deep learning.
+# NAIVE-BEES_COMPUTER-VISION-MODELLING
+Deep learning with bee images.
 
 This is a part of DataCamp's structured projects and it's in 3 parts. 
 
